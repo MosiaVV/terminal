@@ -96,7 +96,7 @@ table {
 
 body {
     text-align: center;
-    display: table;
+
 }
 
 header {
@@ -121,4 +121,9 @@ header {
 
 .col-sm-4 {
     margin: 15px;
+}
+
+.col_img {
+    padding-top: 50px;
+    padding-left: 60px;
 }
