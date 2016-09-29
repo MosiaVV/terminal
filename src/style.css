@@ -91,3 +91,30 @@ table {
     border-spacing: 0;
     border-collapse: collapse;
     width: 100%; }
+
+
+
+body {
+    text-align: center;
+    display: table;
+}
+
+header {
+    width: 1280px;
+    height: 80px;
+    background-color: #383e49;
+    display: inline-block;
+}
+
+h1 {
+    color: white;
+    font-family: ProximaNova;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.head_img {
+
+}
+
