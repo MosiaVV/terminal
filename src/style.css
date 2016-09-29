@@ -106,7 +106,7 @@ header {
     display: inline-block;
 }
 
-h1 {
+.head_title {
     color: white;
     font-family: ProximaNova;
     font-size: 34px;
@@ -118,3 +118,7 @@ h1 {
 
 }
 
+
+.col-sm-4 {
+    margin: 15px;
+}
