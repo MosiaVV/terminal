@@ -1,0 +1,22 @@
+{
+  "name": "ter",
+  "version": "1.0.0",
+  "description": "qqq",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MosiaVV/terminal.git"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "qqq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MosiaVV/terminal/issues"
+  },
+  "homepage": "https://github.com/MosiaVV/terminal#readme"
+}
